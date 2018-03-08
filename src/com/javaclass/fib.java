@@ -3,7 +3,7 @@ package com.javaclass;
 public class fib {
 	int x= 100;
 	public void printfibonacci( ) {
-		fib z = new fib();
+//		fib z = new fib();
 	int i;
 	int n1 = 1;
 	int n2 = 1;
