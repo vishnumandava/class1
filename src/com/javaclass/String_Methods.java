@@ -4,7 +4,7 @@ import java.io.*;
 
 public class String_Methods {
 	public static void main(String[] args) {
-	String s = "Naga@vishnu@Mandava";
+	String s = "NAGA@vishnu@Mandava";
 	String [] arrOfStr = s.split("@",5);  
 	System.out.println("String length = " + s.length());
 	System.out.println("Changing to Lower case = " + s.toLowerCase());
